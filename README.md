@@ -6,4 +6,4 @@ dsfdsfdsf
 
 Second Change!
 
-This is my change form another computer! 
+This is my change form THIS computer! 
